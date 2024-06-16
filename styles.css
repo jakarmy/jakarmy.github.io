@@ -43,7 +43,7 @@ ul li {
 }
 
 a {
-    color: #007BFF;
+    color: #555;
     text-decoration: none;
 }
 
@@ -58,4 +58,8 @@ footer {
     padding: 1rem 0;
     width: 100%;
     bottom: 0;
+}
+
+footer p {
+    color: white;
 }

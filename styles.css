@@ -48,7 +48,8 @@ ul.a {
 
 a {
     color: #555;
-    text-decoration: none;
+    text-decoration: underline;
+    list-style-type: circle;
 }
 
 a:hover {

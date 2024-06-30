@@ -36,23 +36,15 @@ p {
 ul {
     list-style: none;
     padding: 0;
+    list-style-type: disc;
 }
 
 ul li {
     margin: 0.5rem 0;
 }
 
-ul.a {
-    list-style-type: circle;
-}
-
 a {
     color: #555;
-    text-decoration: underline;
-    list-style-type: circle;
-}
-
-a:hover {
     text-decoration: underline;
 }
 
